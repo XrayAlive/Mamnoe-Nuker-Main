@@ -1,4 +1,4 @@
-# x444-Nuker
+# Mamnoe-Nuker
 Mamnoe, fastest nuker on discord written in py.
 ## Installation
 For compiled version:
