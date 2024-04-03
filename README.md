@@ -12,7 +12,7 @@ For python version:
 - Install required modules from "requirements.txt"
 - Provide your bot token and channel/roles/messages content in config.json file
 - Provide your proxies (optional)
-- Run x444.py
+- Run Mamnoe.py
 ## Todo
 - [x] Proxy supported HTTP/s [ip:port][user:pass@ip:port] formats
 - [ ] Nuke command (all together)
